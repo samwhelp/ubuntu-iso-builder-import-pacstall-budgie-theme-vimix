@@ -113,7 +113,7 @@ make build
 | [ubuntu-iso-builder-remix-lxqt](https://github.com/samwhelp/ubuntu-iso-builder-remix-lxqt) | [ubuntu-iso-builder-respin-lxqt](https://github.com/samwhelp/ubuntu-iso-builder-respin-lxqt) |
 | [ubuntu-iso-builder-remix-mate](https://github.com/samwhelp/ubuntu-iso-builder-remix-mate) | [ubuntu-iso-builder-respin-mate](https://github.com/samwhelp/ubuntu-iso-builder-respin-mate) |
 | [ubuntu-iso-builder-remix-cinnamon](https://github.com/samwhelp/ubuntu-iso-builder-remix-cinnamon) | [ubuntu-iso-builder-respin-cinnamon](https://github.com/samwhelp/ubuntu-iso-builder-respin-cinnamon) |
-| [ubuntu-iso-builder-remix-budgie-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-remix-budgie-theme-vimix) | [ubuntu-iso-builder-respin-budgie](https://github.com/samwhelp/ubuntu-iso-builder-respin-budgie) |
+| [ubuntu-iso-builder-remix-budgie](https://github.com/samwhelp/ubuntu-iso-builder-remix-budgie) | [ubuntu-iso-builder-respin-budgie](https://github.com/samwhelp/ubuntu-iso-builder-respin-budgie) |
 
 
 | Remix | Respin |
