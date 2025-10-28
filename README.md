@@ -9,8 +9,6 @@
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-budgie-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-budgie-theme-vimix) |
-| `=` |
-| [ubuntu-iso-builder-include-pacstall-budgie-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-budgie-theme-vimix) |
 
 
 
